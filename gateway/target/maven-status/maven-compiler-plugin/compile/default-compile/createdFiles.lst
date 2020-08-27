@@ -1,0 +1,6 @@
+com\sinosoft\gateway\zuul\CustomRouteLocator.class
+com\sinosoft\gateway\GatewayApplication.class
+com\sinosoft\gateway\zuul\CustomRouteLocator$ZuulRouteVO.class
+com\sinosoft\gateway\config\CustomZuulConfig.class
+com\sinosoft\gateway\event\RefreshRouteService.class
+com\sinosoft\gateway\web\DemoController.class
